@@ -3,7 +3,7 @@
 ImersãoDev da alura realizada nos dias 07 a 18 de março de 2022 este é o meu repositorio com os projetos realizados
 
 ## Projetos
-<h1 align="center"> Calculadora de media :heavy_check_mark:</h1> 
+<h1 align="center">Aula-01 - Calculadora de media :heavy_check_mark:</h1> 
 
 [Link do resultado](https://vitor-imersaodev-media.netlify.app/) <br />
 [Link do repositorio](https://github.com/vitorFRE/ImersaoDev-alura/tree/main/Calculadora-Media) <br />
