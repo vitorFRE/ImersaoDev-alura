@@ -11,7 +11,7 @@ ImersãoDev da alura realizada nos dias 07 a 18 de março de 2022 este é o meu 
 <p align="justify">Nesta primeira aula da Imersão Dev, vamos criar uma calculadora de média e aprender o que são variáveis e como realizar operações!</p>
 
 <p align="center">
-  <img src="./prints/aula01" title="Resultado">
+  <img src="./prints/aula01.png" title="Resultado">
 </p>
 
 
