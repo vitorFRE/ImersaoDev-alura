@@ -44,7 +44,7 @@ ImersãoDev da alura realizada nos dias 07 a 18 de março de 2022 este é o meu 
   <img src="./prints/aula03.png" title="Resultado">
 </p>
 
-<h1 align="center">Aula-04 - AluraFlix :heavy_check_mark:</h1> <br />
+<h1 align="center">Aula-04 e Aula-05 - AluraFlix :heavy_check_mark:</h1> <br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b5dfa400-42e7-42db-8674-df98a46a8488/deploy-status)](https://vitor-imersaodev-aluraflix.netlify.app/)
 
